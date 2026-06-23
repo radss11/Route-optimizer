@@ -2,7 +2,7 @@
 
 A delivery route optimizer that finds the fastest road route for a single driver across multiple stops — built with React, Leaflet.js, OSRM, and a custom TSP solver.
 
-🔗 **Live Demo:** [your-app.vercel.app](https://your-app.vercel.app) *(update after Vercel deploy)*
+🔗 **Live Demo:** https://route-optimizer-dax1mggio-radha6.vercel.app/
 
 ---
 
